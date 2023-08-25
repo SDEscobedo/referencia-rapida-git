@@ -1,4 +1,3 @@
 curso de git
 dia 1
 dia 2
-branching
