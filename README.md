@@ -10,8 +10,9 @@ para clonar use
 git clone https://github.com/SDEscobedo/praticasgit.git
 ```
 ```javascript
-function(e){
-x = 1;
+function f(e){
+e += 1;
+return e
  }
 ```
 
