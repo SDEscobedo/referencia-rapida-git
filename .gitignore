@@ -1,1 +1,4 @@
+# Esse é um commentario
 node_modules/
+*.png
+!bg.png
