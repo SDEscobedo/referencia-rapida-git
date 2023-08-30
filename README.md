@@ -12,6 +12,8 @@
 
 ## Descrição
 
+Esse repositório tem o intuito de ensinar os conceitos de Git e GitHub, desde o básico até o avançado. Com exemplos reais e práticos, de fácil compreensão e entendimento.
+
 ## Menu
 
 Bem-vindo ao meu projeto! Aqui estão alguns comandos úteis:
