@@ -1,6 +1,4 @@
-# Projeto de práticas para curso de Git
-## Subtitulo
-### Divisção
+# Referencia rapida para o uso de Git
 
 ## Tecnologias Usadas
 
