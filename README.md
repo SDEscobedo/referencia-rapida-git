@@ -22,3 +22,10 @@ Bem-vindo ao meu projeto! Aqui estão alguns comandos úteis:
 - [Git Commit](commands/gitcommit.md)
 
 ## Colaboração
+
+Para clonar o repositorio:
+
+```
+git clone https://github.com/SDEscobedo/referencia-rapida-git.git
+```
+Adicione sua nova pagina criando um link na seção menu, e colocando o novo documento na pasta `commands`.
