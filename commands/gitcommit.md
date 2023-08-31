@@ -24,3 +24,9 @@ git commit -m "Descrição desejada"
 ```
 git commit -a -m "Descrição desejada"
 ```
++ Esse comando é equivalente aos comandos: 
+
+```
+git add .
+git commit -m "Descrição desejada"
+```
