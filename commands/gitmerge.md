@@ -29,3 +29,21 @@ O comando `git merge` é utilizado em situações onde você deseja incorporar a
 5. **Code Review:** Considere a realização de uma revisão de código antes de realizar um merge. Isso pode ajudar a identificar problemas antes que eles sejam integrados ao código principal.
 
 Lembre-se de que o `git merge` é uma operação que afeta o histórico do projeto e deve ser realizada com cuidado para manter a integridade do código.
+
+# Exemplo de Uso do Comando `git merge`
+
+Suponha que você tenha um projeto com duas branches: `main` (a branch principal) e `feature-nova-funcionalidade` (uma branch de recurso onde você trabalhou em uma nova funcionalidade). Agora, você deseja incorporar as alterações da branch `feature-nova-funcionalidade` de volta à branch `main`.
+
+## Passos
+
+1. Certifique-se de estar na branch `main` usando o seguinte comando:
+
+```
+git checkout main
+```
+
+Execute o comando git merge para incorporar as alterações da branch feature-nova-funcionalidade à branch main:
+
+```
+git merge feature-nova-funcionalidade
+```
