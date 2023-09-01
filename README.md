@@ -1,4 +1,5 @@
 # Referencia rapida para o uso de Git
+## _Para os novos estagiários_
 
 ## Tecnologias Usadas
 
