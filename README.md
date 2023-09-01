@@ -19,6 +19,7 @@ Bem-vindo ao meu projeto! Aqui estão alguns comandos úteis:
 - [Git Status](commands/gitstatus.md)
 - [Git Log](commands/gitlog.md)
 - [Git Commit](commands/gitcommit.md)
+- [Git merge](commands/gitmerge.md)
 
 ## Colaboração
 
