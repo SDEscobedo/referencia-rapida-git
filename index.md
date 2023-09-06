@@ -18,6 +18,7 @@ Bem-vindo ao meu projeto! Aqui estão alguns comandos úteis:
 - [Git Merge](commands/gitmerge.md)
 - [Git Add](commands/gitadd.md)
 - [Git Switch](commands/gitswitch.md)
+- [Git Stash](commands/gitstash.md)
 
 ## Colaboração
 Visite o repositorio no GitHub: [referencia-rapida-git](https://github.com/SDEscobedo/referencia-rapida-git)
