@@ -10,14 +10,74 @@ Esse repositório tem o intuito de ensinar os conceitos de Git e GitHub, desde o
 
 ## Menu
 
-Bem-vindo ao meu projeto! Aqui estão alguns comandos úteis:
+### Setup e configuração
+- git
+- config
+- help
+- bugreport
+- Credential helpers
 
-- [Git Status](commands/gitstatus.md)
-- [Git Log](commands/gitlog.md)
-- [Git Commit](commands/gitcommit.md)
-- [Git Merge](commands/gitmerge.md)
-- [Git Add](commands/gitadd.md)
-- [Git Switch](commands/gitswitch.md)
+### Clonando e criando projetos
+- init
+- clone
+
+### Comandos básicos para criar o snapshot
+- [add](commands/gitadd.md)
+- [status](commands/gitstatus.md)
+- diff
+- [commit](commands/gitcommit.md)
+- notes
+- restore
+- reset
+- rm
+- mv
+
+### Ramificações e mesclagem
+- branch
+- checkout
+- [switch](commands/gitswitch.md)
+- [merge](commands/gitmerge.md)
+- mergetool
+- [log](commands/gitlog.md)
+- [stash](commands/gitstash.md)
+- tag
+- worktree
+
+### Compartilhando e atualizando projetos
+- fetch
+- pull
+- push
+- remote
+- submodule
+
+### Inspecionando e comparando
+- show
+- [log](commands/gitlog.md)
+- diff
+- difftool
+- range-diff
+- shortlog
+- describe
+
+### Ajeitando
+- apply
+- cherry-pick
+- rebase
+- revert
+
+### Debugando
+- bisect
+- blame
+- grep
+
+### Comandos de _encanamento_
+- cat-file
+- hash-object
+- check-ignore
+- checkout-index
+- diff-index
+- ls-files
+- ls-tree
 
 ## Colaboração
 Visite o repositorio no GitHub: [referencia-rapida-git](https://github.com/SDEscobedo/referencia-rapida-git)
